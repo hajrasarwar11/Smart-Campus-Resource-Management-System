@@ -1,0 +1,17 @@
+Room Number,Type,Building,Floor,Capacity
+A01,Conference,Admin Building,1,20
+301,Seminar,Annex Building,3,40
+C-8,Lab,Computer Science Block,1,30
+S6,Lab,Main,1,30
+101,Theory,Main Building,1,50
+102,Theory,Main Building,1,50
+201,Lab,Main Building,2,30
+202,Lab,Main Building,2,25
+S-2,Theory,Software Engineering Block,1,40
+S-27b,Theory,Software Engineering Block,2,40
+S-3,Theory,Software Engineering Block,1,40
+S-37b,Theory,Software Engineering Block,3,40
+S-5,Theory,Software Engineering Block,1,40
+S-6,Theory,Software Engineering Block,1,40
+S-7,Lab,Software Engineering Block,1,30
+S-8,Lab,Software Engineering Block,1,30
